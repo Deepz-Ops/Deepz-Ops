@@ -36,12 +36,12 @@ I'm **Deepan Sivakumar**, a Cloud & DevOps Engineer with 3+ years of experience 
 ## 🏆 Certifications
 
 - **Microsoft Certified: Azure Administrator Associate** - [View Credential](https://learn.microsoft.com/api/credentials/share/en-us/DeepanSivakumar-7196/94808457F039EE6E?sharingId=29F5241E2D4960C2)
-
+<!---
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepz-Ops&show_icons=true&theme=radical)
 
----
+--->
 
 <!---
 Deepz-Ops/Deepz-Ops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
