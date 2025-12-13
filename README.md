@@ -1,4 +1,4 @@
-# Hi there, I'm @Deepz-Ops 👋
+# Hi there, I'm Deepan Sivakumar 👋
 
 Welcome to my GitHub profile! This README appears on my GitHub profile page.
 
