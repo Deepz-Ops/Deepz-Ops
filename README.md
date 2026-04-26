@@ -16,7 +16,7 @@ I'm **Deepan Sivakumar**, a Cloud & DevOps Engineer with 3+ years of experience 
 
 ## 🛠️ Tech Stack
 
-**Cloud Platforms:** AWS (ECS, EC2, VPC, ALB, WAF, RDS/Aurora, API Gateway), Azure (VMs, AKS, Fileshare, Storage, IAM)
+**Cloud Platforms:** AWS (EKS, ECS, EC2, VPC, ALB, WAF, RDS/Aurora, API Gateway), Azure (VMs, AKS, Fileshare, Storage, IAM)
 
 **CI/CD:** Jenkins, AWS CodePipeline, Azure DevOps
 
