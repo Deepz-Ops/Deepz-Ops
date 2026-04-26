@@ -10,7 +10,6 @@ I'm **Deepan Sivakumar**, a Cloud & DevOps Engineer with 3+ years of experience 
 - 🌱 I'm currently learning **Advanced Kubernetes patterns, Terraform best practices, and cloud-native architectures**
 - 💞️ I'm looking to collaborate on **Open-source DevOps tools, Kubernetes projects, and automation scripts**
 - 📫 How to reach me:
-  - 📧 Email: [deepanvelu3@gmail.com](mailto:deepanvelu3@gmail.com)
   - 💼 LinkedIn: [deepan-sivakumar](https://www.linkedin.com/in/deepan-sivakumar)
   - 🎓 Microsoft Learn: [View Profile](https://learn.microsoft.com/api/credentials/share/en-us/DeepanSivakumar-7196/94808457F039EE6E?sharingId=29F5241E2D4960C2)
 - ⚡ Fun fact: I've automated 40+ recurring operational tasks using Bash scripting, reducing manual workload by 60% and improving deployment consistency
